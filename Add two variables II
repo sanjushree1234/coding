@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main()
+{
+	int var1 = 100;
+	int var2 = 150;
+	
+
+	printf("%d", answer);
+	return 0;
+}
