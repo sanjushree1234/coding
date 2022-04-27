@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main()
+{
+	double var1,var2,sum=0;
+	scanf("%lf %lf",&var1,&var2);
+    sum=var1/var2;
+    printf("%.12lf",sum);
+        
+
+
+
+	return 0;
+}
